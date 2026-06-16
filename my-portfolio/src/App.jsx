@@ -18,11 +18,11 @@ function App() {
 
       <section className="section">
         <h2>Projects</h2>
-        <div className="card">
-          <h3>AI Chatbot</h3>
-          <p>A customer support chatbot powered by GPT-4o-mini. Built with React and Node.js.</p>
-          <span>Coming soon...</span>
-        </div>
+       <div className="card">
+  <h3>AI Chatbot</h3>
+  <p>A customer support chatbot powered by Groq AI. Built with React and Node.js.</p>
+  <a href="https://ai-chatbot-flax-zeta.vercel.app" target="_blank" rel="noreferrer" style={{color: '#a78bfa'}}>View Live →</a>
+</div>
       </section>
 
       <section className="contact">
